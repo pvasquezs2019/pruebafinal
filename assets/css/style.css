@@ -1,0 +1,101 @@
+body {
+    font-family: 'Raleway', sans-serif; 
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif; 
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400; /* Regular */
+}
+#navegacion {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    background-color: transparent !important;
+}
+#fluid {
+    margin-top: 0%;
+}
+#navbarNav {
+    justify-content: right;
+    height: 4rem;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+    padding-right: 10rem;
+}
+.navbar {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+#logo {
+    padding-left: 5rem;
+}
+#inicio, #quienes, #destacados, #contacto, #viajes {
+    color:aliceblue;
+}
+
+.carousel-item {
+    height: 40rem;
+}
+.quienes {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    background-color: black;
+    color: aliceblue;
+}
+#trabajoss {
+    padding-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.titlea {
+    font-family: 'Raleway',;
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: aliceblue;
+}
+#carta {
+    height:22rem;
+    width: 18rem;
+}
+#cartas {
+    background-size: cover;
+    height: 12rem;
+    width: 18rem;
+}
+.formulario {
+    background-color: black;
+    color: aliceblue;
+    padding-bottom: 4rem;
+}
+footer {
+    background-color:rgb(80, 160,171);
+    padding-top: 2rem;
+}
+#h2s {
+    justify-content: center;
+    align-items: center;
+    padding-top: 0rem;
+}
+
+.icon-container {
+    background-color: rgb(80, 160,171);
+    width: 20rem;
+    height: 2rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
