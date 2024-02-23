@@ -11,3 +11,9 @@ $(document).ready(function(){
       $(".card-text").toggle();
     });
 });
+
+$(document).ready(function(){
+    $("h2").dblclick(function(){
+      $(this).addClass("cambioamarillo");
+    });
+});
